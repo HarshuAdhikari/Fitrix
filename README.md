@@ -14,7 +14,6 @@ Multi-tenant SaaS fitness coaching platform.
 pnpm install
 cp apps/api/.env.example apps/api/.env
 cp apps/web/.env.example apps/web/.env.local
-cp apps/mobile/.env.example apps/mobile/.env
 
 pnpm --filter @fitrix/api prisma generate
 pnpm --filter @fitrix/api prisma migrate dev --name init
