@@ -4,7 +4,7 @@ Multi-tenant SaaS fitness coaching platform.
 
 ## Stack
 - **Monorepo:** Turborepo + pnpm workspaces
-- **Web (Admin + Coach portal):** Next.js 15, TypeScript, Tailwind CSS
+- **Web (Admin + Coach portal + Client):** Next.js 15, TypeScript, Tailwind CSS
 - **API:** NestJS 10, Prisma 5, PostgreSQL
 - **Auth:** Clerk
 
