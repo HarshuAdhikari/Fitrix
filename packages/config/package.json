@@ -1,0 +1,14 @@
+{
+  "name": "@fitrix/config",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js",
+  "files": [
+    "tsconfig-base.json",
+    "tsconfig-next.json",
+    "tsconfig-nest.json",
+    "tsconfig-expo.json",
+    "tailwind-preset.js",
+    "eslint-preset.js"
+  ]
+}
