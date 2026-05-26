@@ -25,7 +25,7 @@ pnpm dev
 ## Structure
 ```
 apps/
-  web/    Next.js 15 coach/admin portal
+  web/    Next.js 15 coach/admin portal/client portal
   api/    NestJS API
 packages/
   ui/     Shared UI components
